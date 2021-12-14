@@ -1,0 +1,7 @@
+# OS generate
+.DS_Store
+
+# Build file 
+*.exe 
+*.hi 
+*.o
