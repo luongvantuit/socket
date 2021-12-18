@@ -5,6 +5,7 @@
 *.exe 
 *.hi 
 *.o
+*.pdf
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
