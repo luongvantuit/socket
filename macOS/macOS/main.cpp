@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  socket
+//  macOS
 //
 //  Created by Lương Văn Tú on 18/12/2021.
 //
