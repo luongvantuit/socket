@@ -28,7 +28,7 @@ int main(int argc, char const *argv[])
     else
     {
         buffer[iRc] = 0;
-        printf("Message from client: %s\n",buffer);
+        printf("Message from client: %s\n", buffer);
     }
 
     // Close socket clear assets
